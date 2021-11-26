@@ -1,0 +1,1 @@
+web: gunicorn DRF-CHAT.wsgi —-log-file - 
