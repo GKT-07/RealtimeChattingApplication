@@ -1,1 +1,1 @@
-web: gunicorn DRF-CHAT.wsgi —-log-file - 
+web: gunicorn ChatApp.wsgi —-log-file - 
